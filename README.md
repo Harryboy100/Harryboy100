@@ -9,7 +9,7 @@ Sou apaixonado(a) por tecnologia e estou construindo meus primeiros projetos no 
 - Git e GitHub  
 
 ### 🧠 Meus objetivos:
-- Analize de cyberseguranca 
+- Analize de cibersegurança 
 - Montar um portfólio profissional
 
 ### 🌐 Onde me encontrar:
