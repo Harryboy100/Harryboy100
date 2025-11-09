@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá! Eu sou [Harryboy100@]
 
-<!--
-**Harryboy100/Harryboy100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado(a) por tecnologia e estou construindo meus primeiros projetos no GitHub! 🚀  
 
-Here are some ideas to get you started:
+### 💻 Tecnologias que estou aprendendo:
+- HTML, CSS e JavaScript
+- Linux  
+- Python  
+- Git e GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Meus objetivos:
+- Analize de cyberseguranca 
+- Montar um portfólio profissional
+
+### 🌐 Onde me encontrar:
+- 📧 Email: arepetra@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/Harryboy100@)
